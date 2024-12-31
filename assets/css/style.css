@@ -1,0 +1,36 @@
+body {
+    font-family:"Poppins", sans-serif;
+    background-color: #a4c2d1 /* egg blue */;
+    font-size: ;
+}
+
+h1,
+h2 {
+    font-family: "DM Serif Display", serif;
+    color: #184f63 /* dark-blue */;
+}
+
+/* About section */
+#about {
+    background-color: white;
+}
+
+/* Portfolio section */
+#portfolio {
+    background-color: #dbdcde /* light gray*/;
+}
+
+/* Contact section */
+#contact {
+    background-color: white;
+}
+
+/* Hero image */
+#hero {
+    background-color: #dbdcde;
+    background-image: url('../images/background.webp');
+    background-size: cover;
+    min-height: 500px;
+    background-position: 50% 70%;
+    padding: 5% 7%;
+}
